@@ -1,5 +1,5 @@
 function myFunction() {
-    GmailApp.sendEmail('natalia.gomes@integrance.com.br', 'teste email', 'Hello Wolrd')
+    GmailApp.sendEmail('gomesn023@gmail.com', 'teste email', 'Hello Wolrd')
 }
 
 function makeDraft() {
